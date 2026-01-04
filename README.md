@@ -21,7 +21,7 @@ This project is developed as an academic project to strengthen concepts of **C++
 - **GUI Framework:** Qt (Qt Widgets)  
 - **Data Structures:**  
   - Arrays (Console version)  
-  - QVector (Qt GUI version)
+
 
 ---
 
