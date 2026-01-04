@@ -44,4 +44,34 @@ This project is developed as an academic project to strengthen concepts of **C++
 
 ---
 
-## 🧩 Project Structure (Suggested)
+## 🚀 How to Run
+
+### ▶ Console Version
+1. Open the project in Dev-C++ / Code::Blocks / VS Code  
+2. Compile and run the C++ file  
+3. Use the menu-driven interface  
+
+### ▶ Qt GUI Version
+1. Open Qt Creator  
+2. Open the Qt project  
+3. Configure the kit (MinGW / MSVC)  
+4. Build and run the application  
+
+---
+
+## 🧪 Testing
+- Tested adding, searching, and displaying members  
+- Verified revenue calculations  
+- Checked age categorization  
+- Ensured GUI input validation  
+
+---
+
+## 👨‍💻 Developers
+- **Namra Irfan**  
+- **Shahzad Ahmad**
+
+---
+
+## 📚 Conclusion
+This project demonstrates the practical application of **C++ programming**, **data management**, and **Qt GUI development**, offering a solid foundation for future software engineering projects.
